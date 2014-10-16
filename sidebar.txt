@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cir:home|Door43 (cir)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cir|d43-cir repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cir/archive/master.zip|d43-cir.zip]]
+
+**Recent Changes**
+{{changes>ns = cir}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cir|Ethnologue data]]
+
